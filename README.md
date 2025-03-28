@@ -1,9 +1,9 @@
 # Diabetes_prediction</br>
 
-**Overview**
-
+**Overview**</br>
 This repository contains a Diabetes Prediction project that utilizes Machine Learning to predict the likelihood of diabetes based on input health parameters. The model is trained on a dataset containing various medical attributes and applies classification techniques to determine the presence of diabetes.
 
+</br>
 **Features**
 
 - Data preprocessing and feature selection</br>
@@ -11,17 +11,20 @@ This repository contains a Diabetes Prediction project that utilizes Machine Lea
 - Model evaluation and performance metrics</br>
 - Web application interface for predictions (if applicable)</br>
 
-**Dataset**
-The dataset used in this project contains medical parameters such as:</br>
+</br>
+**Dataset**</br>
+The dataset used in this project contains medical parameters such as:
+
 - Age</br>
 - BMI (Body Mass Index)</br>
 - Blood pressure</br>
 - Glucose levels</br>
 - Insulin levels</br>
 - Skin thickness</br>
-- Diabetes pedigree function
+- Diabetes pedigree function</br>
 
-**Technologies Used**
+
+**Technologies Used**</br>
 Programming Language: **Python**
 
 **Libraries:**
@@ -33,7 +36,7 @@ Programming Language: **Python**
 - Flask (if a web interface is included)</br>
 - Jupyter Notebook for model training and evaluation
 
-
+</br>
 **Installation**
 
 To run this project locally, follow these steps:
@@ -77,16 +80,19 @@ app.py
 Input the required parameters and get predictions for diabetes.
 
 
-**Model Performance**
+</br>
+**Model Performance**</br>
 The model performance is evaluated using:
+
 - Accuracy Score</br>
 - Confusion Matrix</br>
 - Precision, Recall, and F1-score</br>
 - ROC Curve and AUC Score</br>
 
-
-**Contributions**
+</br>
+**Contributions**</br>
 Contributions are welcome! If you wish to contribute:
+
 - Fork the repository
 - Create a new branch (feature-branch)
 - Make necessary modifications
