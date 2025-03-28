@@ -6,31 +6,21 @@ This repository contains a Diabetes Prediction project that utilizes Machine Lea
 
 **Features**
 
-Data preprocessing and feature selection
-
-Implementation of machine learning algorithms for classification
-
-Model evaluation and performance metrics
-
-Web application interface for predictions (if applicable)
+- Data preprocessing and feature selection</br>
+- Implementation of machine learning algorithms for classification</br>
+- Model evaluation and performance metrics</br>
+- Web application interface for predictions (if applicable)</br>
 
 **Dataset**
 
-The dataset used in this project contains medical parameters such as:
-
-Age
-
-BMI (Body Mass Index)
-
-Blood pressure
-
-Glucose levels
-
-Insulin levels
-
-Skin thickness
-
-Diabetes pedigree function
+The dataset used in this project contains medical parameters such as:</br>
+- Age</br>
+- BMI (Body Mass Index)</br>
+- Blood pressure</br>
+- Glucose levels</br>
+- Insulin levels</br>
+- Skin thickness</br>
+- Diabetes pedigree function
 
 **Technologies Used**
 
@@ -38,19 +28,13 @@ Programming Language: Python
 
 Libraries:
 
-NumPy
-
-Pandas
-
-Scikit-Learn
-
-Matplotlib
-
-Seaborn
-
-Flask (if a web interface is included)
-
-Jupyter Notebook for model training and evaluation
+- NumPy</br>
+- Pandas</br>
+- Scikit-Learn</br>
+- Matplotlib</br>
+- Seaborn</br>
+- Flask (if a web interface is included)</br>
+- Jupyter Notebook for model training and evaluation
 
 **Installation**
 
@@ -58,24 +42,27 @@ To run this project locally, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/Gowri0109/Diabetes_prediction.git
+```git clone https://github.com/Gowri0109/Diabetes_prediction.git```
 
 **Navigate to the project directory:**
 
-'cd Diabetes_prediction
-
+```
+cd Diabetes_prediction
+```
 **Create a virtual environment (optional but recommended):**
 
-'''python
+```python
 python -m venv venv
 source venv/bin/activate  # For MacOS/Linux</br>
 venv\Scripts\activate  # For Windows
+```
+<\br>
 
 **Install dependencies:**
 
-'''python
+```python
 pip install -r requirements.txt
-
+```
 Run the Jupyter Notebook for model training and evaluation:
 
 jupyter notebook
@@ -86,34 +73,27 @@ Run the notebook to train and evaluate the model.
 
 If a web interface is implemented, start the Flask app with:
 
-'''python 
+```python 
 app.py
-
+```
 Input the required parameters and get predictions for diabetes.
 
 **Model Performance**
 
 The model performance is evaluated using:
 
-Accuracy Score
+- Accuracy Score</br>
+- Confusion Matrix</br>
+- Precision, Recall, and F1-score</br>
+- ROC Curve and AUC Score</br>
 
-Confusion Matrix
-
-Precision, Recall, and F1-score
-
-ROC Curve and AUC Score
-
-##Contributions
+**Contributions**
 
 Contributions are welcome! If you wish to contribute:
 
-Fork the repository
-
-Create a new branch (feature-branch)
-
-Make necessary modifications
-
-Commit and push changes
-
-Open a pull request
+- Fork the repository
+- Create a new branch (feature-branch)
+- Make necessary modifications
+- Commit and push changes
+- Open a pull request
 
