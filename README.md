@@ -62,17 +62,19 @@ git clone https://github.com/Gowri0109/Diabetes_prediction.git
 
 **Navigate to the project directory:**
 
-'''cd Diabetes_prediction
+'cd Diabetes_prediction
 
 **Create a virtual environment (optional but recommended):**
 
-'''python -m venv venv
-source venv/bin/activate  # For MacOS/Linux
+'''python
+python -m venv venv
+source venv/bin/activate  # For MacOS/Linux</br>
 venv\Scripts\activate  # For Windows
 
 **Install dependencies:**
 
-'''pip install -r requirements.txt
+'''python
+pip install -r requirements.txt
 
 Run the Jupyter Notebook for model training and evaluation:
 
@@ -84,11 +86,12 @@ Run the notebook to train and evaluate the model.
 
 If a web interface is implemented, start the Flask app with:
 
-'''python app.py
+'''python 
+app.py
 
 Input the required parameters and get predictions for diabetes.
 
-Model Performance
+**Model Performance**
 
 The model performance is evaluated using:
 
