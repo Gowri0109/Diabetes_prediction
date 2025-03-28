@@ -12,7 +12,6 @@ This repository contains a Diabetes Prediction project that utilizes Machine Lea
 - Web application interface for predictions (if applicable)</br>
 
 **Dataset**
-
 The dataset used in this project contains medical parameters such as:</br>
 - Age</br>
 - BMI (Body Mass Index)</br>
@@ -23,11 +22,9 @@ The dataset used in this project contains medical parameters such as:</br>
 - Diabetes pedigree function
 
 **Technologies Used**
+Programming Language: **Python**
 
-Programming Language: Python
-
-Libraries:
-
+**Libraries:**
 - NumPy</br>
 - Pandas</br>
 - Scikit-Learn</br>
@@ -35,6 +32,7 @@ Libraries:
 - Seaborn</br>
 - Flask (if a web interface is included)</br>
 - Jupyter Notebook for model training and evaluation
+
 
 **Installation**
 
@@ -78,19 +76,17 @@ app.py
 ```
 Input the required parameters and get predictions for diabetes.
 
+
 **Model Performance**
-
 The model performance is evaluated using:
-
 - Accuracy Score</br>
 - Confusion Matrix</br>
 - Precision, Recall, and F1-score</br>
 - ROC Curve and AUC Score</br>
 
+
 **Contributions**
-
 Contributions are welcome! If you wish to contribute:
-
 - Fork the repository
 - Create a new branch (feature-branch)
 - Make necessary modifications
