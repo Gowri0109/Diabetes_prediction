@@ -3,7 +3,7 @@
 **Overview**</br>
 This repository contains a Diabetes Prediction project that utilizes Machine Learning to predict the likelihood of diabetes based on input health parameters. The model is trained on a dataset containing various medical attributes and applies classification techniques to determine the presence of diabetes.
 
-</br>
+
 **Features**
 
 - Data preprocessing and feature selection</br>
@@ -11,7 +11,7 @@ This repository contains a Diabetes Prediction project that utilizes Machine Lea
 - Model evaluation and performance metrics</br>
 - Web application interface for predictions (if applicable)</br>
 
-</br>
+
 **Dataset**</br>
 The dataset used in this project contains medical parameters such as:
 
@@ -36,7 +36,7 @@ Programming Language: **Python**
 - Flask (if a web interface is included)</br>
 - Jupyter Notebook for model training and evaluation
 
-</br>
+
 **Installation**
 
 To run this project locally, follow these steps:
@@ -57,7 +57,7 @@ python -m venv venv
 source venv/bin/activate  # For MacOS/Linux</br>
 venv\Scripts\activate  # For Windows
 ```
-<\br>
+
 
 **Install dependencies:**
 
@@ -80,7 +80,7 @@ app.py
 Input the required parameters and get predictions for diabetes.
 
 
-</br>
+
 **Model Performance**</br>
 The model performance is evaluated using:
 
@@ -89,7 +89,7 @@ The model performance is evaluated using:
 - Precision, Recall, and F1-score</br>
 - ROC Curve and AUC Score</br>
 
-</br>
+
 **Contributions**</br>
 Contributions are welcome! If you wish to contribute:
 
